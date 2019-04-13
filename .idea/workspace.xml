@@ -131,7 +131,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555168079744" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555168562777" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -170,7 +170,7 @@
       <workItem from="1553480835874" duration="77000" />
       <workItem from="1553480933772" duration="80000" />
       <workItem from="1553481024718" duration="1100000" />
-      <workItem from="1555165765915" duration="2705000" />
+      <workItem from="1555165765915" duration="2732000" />
     </task>
     <task id="LOCAL-00001" summary="versao final dockerizado">
       <created>1555166604241</created>
@@ -193,11 +193,18 @@
       <option name="project" value="LOCAL" />
       <updated>1555167869336</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="versao final">
+      <created>1555168555732</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1555168555732</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3962000" />
+    <option name="totallyTimeSpent" value="3989000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -243,7 +250,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="versao final dockerizado" />
     <MESSAGE value="versao final swagger" />
-    <option name="LAST_COMMIT_MESSAGE" value="versao final swagger" />
+    <MESSAGE value="versao final" />
+    <option name="LAST_COMMIT_MESSAGE" value="versao final" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/fiap/paymentservice/Payment.java" />
