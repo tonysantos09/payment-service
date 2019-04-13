@@ -6,8 +6,10 @@ import org.springframework.web.bind.annotation.*;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
+import io.swagger.annotations.Api;
 
 @RestController
+@Api(value = "Payment", description = "lista de pagamentos")
 public class PaymentController {
     private ArrayList<Payment> payments = new ArrayList<>();
 
